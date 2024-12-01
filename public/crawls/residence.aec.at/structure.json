@@ -1,0 +1,16 @@
+{
+  "url": "https://residence.aec.at/lastentry/index.html",
+  "screenshot": "/crawls/residence.aec.at/screenshots/screenshot__lastentry_index.html.png",
+  "children": [
+    {
+      "url": "https://residence.aec.at/lastentry/travellog.html",
+      "screenshot": "/crawls/residence.aec.at/screenshots/screenshot__lastentry_travellog.html.png",
+      "children": []
+    },
+    {
+      "url": "https://residence.aec.at/lastentry/dark/index.html",
+      "screenshot": "/crawls/residence.aec.at/screenshots/screenshot__lastentry_dark_index.html.png",
+      "children": []
+    }
+  ]
+}
